@@ -1,0 +1,26 @@
+.output {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(107, 106, 105);
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    padding: 50px;
+}
+
+h1 {
+    font-family: 'Rampart One', cursive; 
+    color: purple;
+    background-color: rosybrown;
+
+
+}
+
+
+body {
+    background-color: rgb(106, 92, 112);
+    
+}
+
